@@ -4,7 +4,10 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
+		"scss:build": "sass scss:public/styles",
+		"scss:watch": "sass --watch scss:public/styles",
 		"server:watch": "nodemon index.js",
+		"dev": "run-p scss:watch server:watch",
 		"start": "node index.js"
 	},
 	"keywords": [],
