@@ -1,5 +1,7 @@
 This is the starter code that goes along with the Medium article, 'Add Sass to a Node.js Project'.
 
+![image](https://user-images.githubusercontent.com/55459088/110842409-0ca73000-8275-11eb-95f0-439441d30a8b.png)
+
 # Getting Started
 1. (Fork and) Clone this repo
 2. Install dependencies (`npm i`)
