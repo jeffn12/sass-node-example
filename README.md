@@ -9,9 +9,12 @@ This project contains a very basic MVC folder hierarchy with a directory for scs
 
 # Dependencies
 "express": "^4.17.1",
+
 "npm-run-all": "^4.1.5",
+
 "sass": "^1.32.8"
-## Dev Dependencies
+
+### Dev Dependencies
 "nodemon": "^2.0.7"
 
 # License
@@ -19,6 +22,7 @@ Distributed under the MIT License. See <a href="license.md">LICENSE.md</a> for m
 
 # Contact
 Jeff Neuberger - [@jeffneuberger](https://twitter.com/jeffneuberger) - [jeffreyneuberger@gmail.com](mailto:jeffreyneuberger@gmail.com) - [GitHub](https://github.com/jeffn12)
+
 Medium Article: [__Add SASS to a Node.js Project__](https://medium.com/@jeffreyneuberger/add-sass-scss-to-a-node-js-project-9cdc623b9cea)
 
 # Acknowledgements
